@@ -13,9 +13,8 @@
 
 ## Instructions :
 
-   * do not change transmitter and receiver pin 
-   * the arduino code is same for both both the arduino's
-   * insatall Radio head libray
+   * do not change Tx and Rx pin 
+   * insatall <AFMotor.h> <NewPing.h>
 
 ## software using 
    * Arduino ide (for coding )
